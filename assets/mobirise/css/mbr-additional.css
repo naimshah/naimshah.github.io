@@ -1,4 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Archivo+Black:400);
+@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Francois+One:400);
+@import url(https://fonts.googleapis.com/css?family=Anton:400);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+
 
 
 
@@ -19,14 +24,14 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Archivo Black', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -40,14 +45,14 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Francois One', sans-serif;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: undefined;
+  font-family: 'Anton', sans-serif;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -620,7 +625,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: undefined;
+  font-family: 'Anton', sans-serif;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1633,6 +1638,10 @@ body {
 .cid-qB6QlIBb84 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qB6QlIBb84 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qB6QlIBb84 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qB6QlIBb84 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qB6QlIBb84 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1726,6 +1735,10 @@ body {
   .cid-qB6QlIBb84 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qB6QlIBb84 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-qB6QlIBb84 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qB6QlIBb84 .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-qB6QlIBb84 .navbar-collapse.collapsing .navbar-buttons,
   .cid-qB6QlIBb84 .navbar-collapse.show .navbar-buttons {
@@ -2010,6 +2023,10 @@ body {
 .cid-qB6QlIBb84 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qB6QlIBb84 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qB6QlIBb84 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qB6QlIBb84 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qB6QlIBb84 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2104,6 +2121,10 @@ body {
   .cid-qB6QlIBb84 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-qB6QlIBb84 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qB6QlIBb84 .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-qB6QlIBb84 .navbar-collapse.collapsing .navbar-buttons,
   .cid-qB6QlIBb84 .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -2162,7 +2183,7 @@ body {
 }
 .cid-qB74wNBivg {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 75px;
   background-image: url("../../../assets/images/mbr-1-1620x1080.jpg");
 }
 .cid-qB74wNBivg .progress {
@@ -2535,6 +2556,10 @@ body {
 .cid-qB6QlIBb84 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qB6QlIBb84 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qB6QlIBb84 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qB6QlIBb84 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qB6QlIBb84 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2628,6 +2653,10 @@ body {
   .cid-qB6QlIBb84 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qB6QlIBb84 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-qB6QlIBb84 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qB6QlIBb84 .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-qB6QlIBb84 .navbar-collapse.collapsing .navbar-buttons,
   .cid-qB6QlIBb84 .navbar-collapse.show .navbar-buttons {
@@ -3015,6 +3044,10 @@ body {
 .cid-qB6QlIBb84 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qB6QlIBb84 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qB6QlIBb84 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qB6QlIBb84 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qB6QlIBb84 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -3108,6 +3141,10 @@ body {
   .cid-qB6QlIBb84 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qB6QlIBb84 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-qB6QlIBb84 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qB6QlIBb84 .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-qB6QlIBb84 .navbar-collapse.collapsing .navbar-buttons,
   .cid-qB6QlIBb84 .navbar-collapse.show .navbar-buttons {
@@ -3249,7 +3286,7 @@ body {
 }
 .cid-qBHYHFZ7Zq {
   padding-top: 60px;
-  padding-bottom: 0px;
+  padding-bottom: 120px;
   background-color: #000000;
 }
 .cid-qBHYHFZ7Zq .testimonial-text {
@@ -3490,6 +3527,10 @@ body {
 .cid-qB6QlIBb84 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-qB6QlIBb84 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-qB6QlIBb84 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-qB6QlIBb84 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-qB6QlIBb84 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -3583,6 +3624,10 @@ body {
   .cid-qB6QlIBb84 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-qB6QlIBb84 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
+  }
+  .cid-qB6QlIBb84 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-qB6QlIBb84 .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
   }
   .cid-qB6QlIBb84 .navbar-collapse.collapsing .navbar-buttons,
   .cid-qB6QlIBb84 .navbar-collapse.show .navbar-buttons {
